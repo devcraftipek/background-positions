@@ -1,6 +1,6 @@
 # Sabit Tek Sayfa Çalışması background-positions
 Bu proje, CSS Flex kullanılarak tasarlanmış, sabit bir arka plana sahip tek bir sayfa çalışmasını içermektedir. 
-Temel amacı, esnek bir düzen kullanarak sayfa içeriğini düzenlemek ve basit bir kullanıcı arayüzü oluşturmaktır.
+Temel amacı, esnek bir düzen kullanarak sayfa içeriğini düzenlemek ve basit bir kullanıcı arayüzü oluşturmaktır. Css harici dosya içinde oluşturulmamıştır.
 
 ## Özellikler
 
